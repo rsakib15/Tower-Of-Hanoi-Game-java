@@ -1,4 +1,4 @@
-# Project Title: Tower-Of-Hanoi-Game-java
+# Tower-Of-Hanoi-Game-java
 
 ## Objective:
 
