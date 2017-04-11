@@ -1,12 +1,11 @@
 # Project Title: Tower-Of-Hanoi-Game-java
 
-# Objective:
+## Objective:
 
 Objective of this game is to move all N number of disks from Pole A to Pole C and it takes 2^n-1 moves. You cannot move a larger disk onto a smaller disk.
 
-# Technologies used:
-  Programming Language: Java
+
   
-# See the Demo: 
+## See the Demo: 
 
 https://www.youtube.com/watch?v=XmEeFo0tcnM
